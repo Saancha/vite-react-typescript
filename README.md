@@ -1,1 +1,1 @@
-# Vite React TypeScript Project Name
+# Project Name
