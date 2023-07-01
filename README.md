@@ -3,3 +3,6 @@
 
 ## Built With
 > React, Redux Toolkit
+
+## Linters
+> StyleLint, ESLint, Prettier
