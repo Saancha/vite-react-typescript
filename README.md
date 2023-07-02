@@ -6,3 +6,6 @@
 
 ## Linters
 > StyleLint, ESLint, Prettier
+
+## Requirements
+> Windows, Linux
