@@ -9,3 +9,5 @@
 
 ## Requirements
 > Windows, Linux
+
+## Installation
